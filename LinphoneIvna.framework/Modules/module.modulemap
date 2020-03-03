@@ -1,0 +1,6 @@
+framework module LinphoneIvna {
+  umbrella header "LinphoneIvna.h"
+
+  export *
+  module * { export * }
+}
