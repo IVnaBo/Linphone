@@ -120,7 +120,7 @@ Pod::Spec.new do |spec|
 
    spec.vendored_frameworks = 'LinphoneIvna.framework'
 
-   spec.dependency 'linphone-sdk' 
+   # spec.dependency 'linphone-sdk' 
 
   # spec.library   = "iconv"
   # spec.libraries = "iconv", "xml2"
