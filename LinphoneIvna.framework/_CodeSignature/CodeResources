@@ -6,15 +6,15 @@
 	<dict>
 		<key>Headers/ESSipManager.h</key>
 		<data>
-		CqPOxAaR8KUhWRAlexyV5CU+mVI=
+		W50+peH/+mXfv/BhVkYy6uuTYWE=
 		</data>
 		<key>Headers/LinphoneIvna.h</key>
 		<data>
-		TXpxM+kQ1sGpySv50Zv8ETQ6L3Y=
+		lVtOhRSg+D6hYvjxNGit2JipDZE=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		c1ATuJdrIcmdBmOcyqudVKLOYiI=
+		bbJsHpMt3lXeXZtk+lfnUiVnykE=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -479,22 +479,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			CqPOxAaR8KUhWRAlexyV5CU+mVI=
+			W50+peH/+mXfv/BhVkYy6uuTYWE=
 			</data>
 			<key>hash2</key>
 			<data>
-			aH9z1f1SVP0wIoK09kHfxrl2DPP4sMnS02z2t0pZoMY=
+			jNPAr5Z+bL/TsigRO/slf9E+7EPnPIBhwTI3WNp1Vck=
 			</data>
 		</dict>
 		<key>Headers/LinphoneIvna.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			TXpxM+kQ1sGpySv50Zv8ETQ6L3Y=
+			lVtOhRSg+D6hYvjxNGit2JipDZE=
 			</data>
 			<key>hash2</key>
 			<data>
-			tstdiTTr+oMpqUioYqNck/l18kFxEp5RIqu7WDPyJJU=
+			7z6dhnbwItDgOOSqHcvWl+1zFG5DxBKeFALsEGLeqII=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

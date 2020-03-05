@@ -1,12 +1,10 @@
 //
-//  LinphoneIvna.h
-//  LinphoneIvna
+//  ESSipManager.h
+//  EasySip
 //
-//  Created by ivna.evecom on 2020/3/3.
-//  Copyright © 2020 ivna. All rights reserved.
+//  Created by Weller Zhao on 2018/7/27.
+//  Copyright © 2018 weller. All rights reserved.
 //
-
-//在原作者的代码基础上做修改
 
 #import <UIKit/UIKit.h>
 #import <Foundation/Foundation.h>
@@ -18,6 +16,8 @@ extern NSString *const ES_ON_REMOTE_OPEN_CEMERA;
 extern NSString *const ES_ON_CALL_COMMING;
 extern NSString *const ES_ON_CALL_END;
 extern NSString *const ES_ON_CALL_STREAM_UPDATE;
+extern NSString *const ES_ON_Call_StateOutgoingInit;
+extern NSString *const ES_ON_REGISTER_STATE;
 
 @interface ESSipManager : NSObject
 

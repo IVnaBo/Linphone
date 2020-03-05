@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "LinphoneIvna"
-  spec.version      = "1.0.1"
+  spec.version      = "1.0.3"
   spec.summary      = "对linphoneSDK的封装 实现更快更简单的移植"
 
   # This description is used to generate tags and improve search results.
